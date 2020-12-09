@@ -1,0 +1,5 @@
+a <- iloss_value("/Users/armandomayalopez/URV/researchData/vmdav/dist/clustered_d13c50id995.csv","/Users/armandomayalopez/URV/researchData/vmdav/dist/clustered_d13c50id995.csv_VmdavFinal_K3_G0.csv",3,",",FALSE)
+
+[1] "SST: 304950727.990088"
+[1] "SSE: 8337614.16361953"
+[1] "Iloss: 2.73408567297814"
